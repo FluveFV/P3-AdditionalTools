@@ -8,3 +8,4 @@ Questo codice è basato sul git [principale](https://github.com/FluveFV/P3-Simil
 |---|---|---|
 |Nome di un Comune per focus|testo|Ala, oppure San Donà di Piave, etc.|
 
+![newplot(7)](https://github.com/user-attachments/assets/bdcb3284-94fa-4971-95b0-33825874125d)
